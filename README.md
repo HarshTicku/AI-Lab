@@ -1,14 +1,5 @@
 # Real Estate Investment Dashboard
 
-## 🔗 **PROJECT LINKS**  
-
-- 💻 **PDF Report**: `Airbnb-data-analysis-using-Advanced-excel/Real Estate Investment Dashboard Report.pdf`  
-- 💻 **Excel Workbook**: `Airbnb-data-analysis-using-Advanced-excel/Real Estate Investment Dashboard.xlsx`  
-
-### > **Note:** If the PDF or Excel workbook do not preview correctly in your environment, download and open them locally for full functionality. Enable macros when prompted.
-
----
-
 ## Project Overview  
 - **Purpose**: Analyze real estate listings data to identify optimal properties for investment and forecast returns.  
 - **Core deliverables**: An Excel workbook with a BI dashboard and a printable PDF report.  
